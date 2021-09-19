@@ -1,0 +1,339 @@
+body{
+    /* background-image: url('bg.png'); */
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: rgb(202, 182, 202);
+    
+    }
+    /* loginform */
+    .myform-mt20,.myform{
+        width: 400px;
+        height: 500px ;
+        border: 2px solid white;
+        margin: 0% auto;
+        margin-top: 100px;
+        padding-bottom: 20px;
+        background-color: white;
+        
+        border-radius: 20px;
+        box-shadow: 2px 2px 4px gray;
+        
+    
+    }
+    .btn-primary{
+        width: 30%;
+        margin-left: 100px;
+        margin-top: 20px;
+    
+    }
+    .form-group{
+        width: 100%;
+    
+        margin-top: 20px;
+        font-family: sans-serif;
+    
+        
+        
+        
+        
+        
+    
+        
+    
+    }
+    .form-control{
+        width: 80%;
+        height: 50px;
+        outline: none;
+        border-style: none;
+        border-bottom: dashed;
+        font-size: 20px;
+    
+        
+        
+        
+        
+        
+    }
+    .signbtn{
+        width: 200px;
+        height: 50px;
+        
+        background-color:rgb(202, 182, 202) ;
+        margin-right: 20px;
+        margin-left: 80px;
+        border-radius: 50px;
+        font-size:25px;
+        text-shadow: 2px 2px 4px gray;
+        box-shadow:2px 2px 4px gray;
+    }
+    .signbtn:hover{
+      background-color: blueviolet;
+      
+    }
+    
+    
+    .mt-20{
+        margin-top: 20p;
+        border: 2px solid white;
+        
+        
+        border: 2px solid black !important;
+    
+    }
+    
+    .teambox{
+        height: 180px;
+        border: 2px solid;
+        margin-bottom: 5px;
+        background-color: white;
+        
+       
+    }
+    
+    
+    .memberlist{
+    list-style-type: none;
+    display: inline;
+    }
+    
+    .memberlist>li{
+        list-style-type: none;
+        display: inline;
+        }
+    
+    
+    
+    .maindiv{
+        width: 80%;
+        margin: 0 auto;
+        border: 2px solid black;
+        background-color:rgb(128, 112, 112);
+        padding: 40px;
+        color: black;
+        margin-top: 20px;
+        border-radius: 15px;
+        
+    
+    }
+    
+    
+    .ownteam{
+        width: 80%;
+        margin: 0 auto;
+        
+    }
+    
+    .otherteam{
+        width: 80%;
+        margin: 0 auto;
+    
+    }
+    
+    
+    .addbtn{
+        width: 100px;
+        position: relative;
+        border-radius: 30px;
+        font-size: large;
+        /* padding: 0; */
+        float: right;
+        bottom: 70px;
+        background-color: burlywood;
+        outline: black;
+        color: black;
+        border: black;
+    
+    
+        
+        
+    }
+    
+    .modal-body input{
+        width: 100%;
+        border: none;
+        outline: none;
+    
+    }
+    
+    
+    .modal-body select{
+        width: 100%;
+        border: none;
+        outline: none;
+    
+    }
+    
+    #ownerquestion input {
+        width: 80%;
+    
+        outline: none;
+    }
+    /* userhtml */
+    .jumma{
+        width: 50px;
+        height: 50px;
+        margin-left: 10px;
+      
+      
+    
+    }
+    .ownerview{
+        border: 2px solid white;
+        background-color: cadetblue;
+        width: 900px;
+        height: 450px;
+        margin-top: 10px;
+    
+    }
+    
+    #memberquestion{
+        border: 2px solid red;
+    }
+    .login{
+        width: 500px;
+        height: 50px;
+        position: relative;
+        left: 120px;
+        text-shadow: 2px 2px 6px gray;
+        font-size: 40px;
+        font-weight: bold;
+        
+    }
+    .link{
+        text-decoration: none;
+        color:black;
+    }
+    .link:hover{
+     color: burlywood;
+    }
+    /* user */
+    .t1{
+        text-shadow: 2px 2px 6px gray;
+    
+    }
+    .Mem{
+        
+        text-shadow: 2px 2px 4px grey;
+        font-weight: bold;
+        margin-left: 10px;
+        margin-bottom: 10px;
+        
+    }
+    .Ques{
+        background-color: darkgray;
+        width: 900px;
+        height: 550px;
+        
+    }
+    .Q1 >input{ 
+        width: 90%;
+        padding: 10px;
+        background-color: white;
+        font-size: large;
+        margin-left: 5px;
+    }
+    .R1{
+        width: 150px;
+        height: 40px;
+        border-radius: 13px;
+        font-weight: bold;
+        font-size: 18px;
+        background-color:blanchedalmond;
+        text-shadow: 2px 2px 4px gray;
+    
+    }
+    .update1{
+        width: 250px;
+        height: 40px;
+        border-radius: 13px;
+        font-weight: bold;
+        font-size: 18px;
+        background-color:blanchedalmond;
+        text-shadow: 2px 2px 4px gray;
+        margin-left: 20px;
+    }
+    .Q1{
+        margin-left: 5px;
+        
+    }
+    .ht{
+        font-size: large;
+        font-weight: bold;
+    }
+
+    /* game work */
+    body{
+        font-family:sans-serif;
+        padding: 30px;
+        background:#ededed;
+    }
+    
+    .wrapper{
+        max-width: 690px;
+        margin: 0 auto;
+    }
+    
+    .blue {
+        color:#3f7abe;
+    }
+    
+    h1{
+        margin: auto;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        color: #08a3d9;
+        text-transform: uppercase;
+        font-size: 30px;
+        color: #000380;
+    }
+    
+    #balloon-gallery div{
+        background: #ff3300;
+        height: 121px;
+        width: 119px;
+        text-align: center;
+        color: #ff3300;
+        font-size: 40px;
+        font-family: sans-serif, arial;
+        border-radius: 100%;
+        margin-top: 20px;
+        display: inline-block;
+        /* float: left; */
+        margin: 2.5px 5 px 2.5px 0px;
+    }
+    
+    #balloon-gallery div:nth-child(3n){
+        background: #ffce00;
+        color: #ffce00;
+    }
+    
+    #balloon-gallery div:nth-child(3n-1){
+        background:#3f7abe;
+        color:#3f7abe;
+    }
+    
+    #balloon-gallery div:nth-child(5n){
+        background:#8e7a8e;
+        color:#8e7a8e;
+    }
+    
+    #balloon-gallery div:nth-child(13){
+        background:#8e7a8e;
+        color:#8e7a8e;
+    }
+    
+    #balloon-gallery div:nth-child(10n){
+        background:#ff3300;
+        color: #ff3300;
+    }
+    
+    #balloon-gallery div:nth-child(4n){
+        clear:right;
+    }
+    
+    #yay-no-balloons {
+        display:none;
+        color:#ff3300;
+        font-size:100px;
+    }
